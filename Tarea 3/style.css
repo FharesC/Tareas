@@ -1,0 +1,42 @@
+.arriba{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: start;
+    font-size: 1.2rem;
+    margin: 3rem 0rem;
+    color: gray;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    margin: 3rem 0rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.abajo{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: end;
+    font-size: 1rem;
+}
+
+#cont{
+    background-color: #EAE4D5;
+    border: 2px solid rgb(184, 184, 184) !important; 
+}
+
+.all{
+    background-color: #EEEEEE;
+}
+
+.color{
+    background-color: #DDF6D2 !important;
+        border: 2px solid rgb(184, 184, 184) !important; 
+}
