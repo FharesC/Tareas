@@ -43,12 +43,3 @@ Cada carpeta incluye el **HTML**, **CSS** y **JS** correspondientes; aquí encon
 3. Reinicia o cambia de canción con los botones indicados.
 
 ---
-
-## Cómo ejecutar los proyectos
-
-```bash
-# Clona el repositorio
-git clone https://github.com/tu-usuario/mini-proyectos-js.git
-cd mini-proyectos-js
-
-# Abre cada index.html en tu navegador o usa una extensión Live Server
